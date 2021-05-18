@@ -11,13 +11,14 @@ Answer 1
 
  let convertFahrToCelsius = (fahr) => {
   // checking if the fahr is a valid input
+  
   if (isNaN(Number(fahr))){
     // fahr is not a valid input
     return `${JSON.stringify(fahr)} is not a valid number but a/an ${Array.isArray(fahr) ? "array": "object"}.`
   } else {
     // fahr is a valid input
     let c = (fahr - 32) * (5/9)
-    return Number(c.toFixed(4));
+    return c.toFixed(4);
   }
 }  //end of function
 
@@ -30,11 +31,14 @@ Answer 2
 
 let checkYuGiOh = (n) => {
   // Checking for invalid parameter
+  
   if ( isNaN(Number(n)) ) {
     // n is not a number, hence return invalid parameter
     return `invalid parameter: ${n}`
   } //end of if function
+  
   // helper function
+  
   let getYuGiOh = (number) => {
     let answer = "";
     if ( number % 2 === 0){
