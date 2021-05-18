@@ -1,10 +1,12 @@
 # Zuri-Algorithm-Test
+
 Please this is the link to my repository: https://github.com/ukadavid/Zuri-Algorithm-Test
 
-I'm so sorry, i made a mistake to upload it as a github page. I put in a lot of work to this. #
+I'm so sorry, i made a mistake to upload it as a github page. I put in a lot of work to this. 
+
 Thank you for your understanding
 
- 
+ Below is also the answers to the problems.
 Answer 1 
 
  let convertFahrToCelsius = (fahr) => {
