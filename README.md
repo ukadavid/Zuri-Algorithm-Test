@@ -1,7 +1,8 @@
 # Zuri-Algorithm-Test
-An algorithm test that tests our javascript knowledge
+Please this is the link to my repository: https://github.com/ukadavid/Zuri-Algorithm-Test
 
-
+I'm so sorry, i made a mistake to upload it as a github page. I put in a lot of work to this. #
+Thank you for your understanding
 
  
 Answer 1 
