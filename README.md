@@ -18,7 +18,7 @@ Answer 1
   } else {
     // fahr is a valid input
     let c = (fahr - 32) * (5/9)
-    return c.toFixed(4);
+    return Number(c.toFixed(4));
   }
 }  //end of function
 
